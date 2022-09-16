@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+    <Code>InvalidArgument</Code>
+    <RequestId>tx00000b87511d539fa329c-00632482e9-3be76-fra</RequestId>
+    <HostId>3be76-fra-default</HostId>
+</Error>
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+    <Code>InvalidArgument</Code>
+    <RequestId>tx00000493fce12d2e65a93-0063248f8e-45600-fra</RequestId>
+    <HostId>45600-fra-default</HostId>
+</Error>
+
